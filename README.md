@@ -1,0 +1,1 @@
+# Vicious-RSI-Scanner
